@@ -1,7 +1,7 @@
 import requests
 import base64
 import os
-from tkinter import *
+
 
 cwd = os.getcwd()  # Get the current working directory (cwd)
 files = os.listdir(cwd)  # Get all the files in that directory
