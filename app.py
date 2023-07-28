@@ -6,7 +6,7 @@ from spotipy.oauth2 import SpotifyClientCredentials
 
 import polarplot
 import songrecommendations
-from tkinter import *
+
 SPOTIPY_CLIENT_ID='c4ea18da9ca044389520f8c562e3fbe1'
 SPOTIPY_CLIENT_SECRET='2de92e4f906648e98ea55731d27c68f6'
 
